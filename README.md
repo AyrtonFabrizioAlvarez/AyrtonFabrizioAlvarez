@@ -4,3 +4,4 @@
 la carrera de Analista Programador Universitario (APU), si sigo vivo tambien iré por la Licenciatura**
 
 [Linkedin](https://www.linkedin.com/in/ayrtonfabrizioalvarez/)
+<img src="./linkedin"></img>
