@@ -5,5 +5,5 @@ la carrera de Analista Programador Universitario (APU), si sigo vivo tambien ir√
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-AyrtonAlvarez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayrtonfabrizioalvarez/)
+![Linkedin Badge](https://img.shields.io/badge/-AyrtonAlvarez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayrtonfabrizioalvarez/)
 
