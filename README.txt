@@ -5,6 +5,6 @@ la carrera de Analista Programador Universitario (APU), si sigo vivo tambien iré
 
 [Linkedin](https://www.linkedin.com/in/ayrtonfabrizioalvarez/)
 
-![Linkedin](https://github.com/AyrtonFabrizioAlvarez/AyrtonFabrizioAlvarez/blob/main/linkedin.svg)
+![Linkedin]<https://www.linkedin.com/in/ayrtonfabrizioalvarez/>(https://github.com/AyrtonFabrizioAlvarez/AyrtonFabrizioAlvarez/blob/main/linkedin.svg){width=20px height=20px}
 
 <img src="./linkedin"></img>
