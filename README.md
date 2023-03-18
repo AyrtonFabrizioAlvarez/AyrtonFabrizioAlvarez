@@ -8,10 +8,10 @@ la carrera de Analista Programador Universitario (APU), si sigo vivo tambien ir√
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Seminario-Python&theme=tokyonight&show_owner=AyrtonFabrizioAlvarez" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Algoritmos-y-Estructuras-de-Datos-AyED-&theme=tokyonight&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Algoritmos-y-Estructuras-de-Datos-AyED-&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Fundamentos-de-Organizacion-de-Datos&theme=tokyonight&show_owner" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Fundamentos-de-Organizacion-de-Datos&theme=tokyonight" />
 </a>
 
 
