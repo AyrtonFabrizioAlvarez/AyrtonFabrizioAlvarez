@@ -22,7 +22,7 @@ la carrera de Analista Programador Universitario (APU), si sigo vivo tambien ir√
 </a>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Conceptos-De-Algoritmos-Datos-y-Programas &theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Conceptos-De-Algoritmos-Datos-y-Programas&theme=tokyonight" />
 </a>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -30,7 +30,7 @@ la carrera de Analista Programador Universitario (APU), si sigo vivo tambien ir√
 </a>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Lenguaje-Ensamblador &theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Lenguaje-Ensamblador&theme=tokyonight" />
 </a>
 
 
