@@ -5,5 +5,7 @@ la carrera de Analista Programador Universitario (APU), si sigo vivo tambien ir√
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiAyrtonFabrizioAlvarezanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+
 ![Linkedin Badge](https://img.shields.io/badge/-AyrtonAlvarez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayrtonfabrizioalvarez/)
 
