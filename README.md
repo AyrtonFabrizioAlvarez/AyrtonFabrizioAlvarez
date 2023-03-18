@@ -4,9 +4,9 @@
 la carrera de Analista Programador Universitario (APU), si sigo vivo tambien iré por la Licenciatura**
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Seminario-Python&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Algoritmos-y-Estructuras-de-Datos-AyED-&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Fundamentos-de-Organizacion-de-Datos&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Seminario-Python&theme=tokyonight&show_owner)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Algoritmos-y-Estructuras-de-Datos-AyED-&theme=tokyonight&show_owner)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Fundamentos-de-Organizacion-de-Datos&theme=tokyonight&show_owner)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyrtonFabrizioAlvarez&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
