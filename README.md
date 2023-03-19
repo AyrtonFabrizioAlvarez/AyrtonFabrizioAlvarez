@@ -9,7 +9,8 @@ la carrera de Analista Programador Universitario (APU), si sigo vivo tambien ir√
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Algoritmos-y-Estructuras-de-Datos-AyED-&theme=tokyonight" />
-</a>...
+</a>
+<br>
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Fundamentos-de-Organizacion-de-Datos&theme=tokyonight" /> 
@@ -17,6 +18,7 @@ la carrera de Analista Programador Universitario (APU), si sigo vivo tambien ir√
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Programacion-Orientada-Objetos&theme=tokyonight" />
 </a>
+<br>
 <br>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -27,6 +29,7 @@ la carrera de Analista Programador Universitario (APU), si sigo vivo tambien ir√
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Conceptos-De-Algoritmos-Datos-y-Programas&theme=tokyonight" />
 </a>
 <br>
+<br>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Currency-Converter&theme=tokyonight" />
@@ -36,10 +39,11 @@ la carrera de Analista Programador Universitario (APU), si sigo vivo tambien ir√
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Lenguaje-Ensamblador&theme=tokyonight" />
 </a>
 <br>
+<br>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyrtonFabrizioAlvarez&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyrtonFabrizioAlvarez&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyrtonFabrizioAlvarez&show_icons=true&theme=tokyonight&hide=prs,contribs)
 
 
