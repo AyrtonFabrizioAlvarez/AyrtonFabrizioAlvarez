@@ -1,8 +1,24 @@
-## Hola! :wave:
-
 **My name is Ayrton Fabrizio Alvarez, I study at the National University of La Plata, currently studying the Programmer Analyst (APU) career, if I'm still alive I'll also go for the CS degree**
+<br><br>
 
-<h3 align="center"><strong>1er año</strong></h3>
+<h3 align="center"><strong>2nd year</strong></h3>
+<hr>
+<br>
+<div align="center">
+<a href="https://github.com/AyrtonFabrizioAlvarez/Seminario-Python">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Seminario-Python&theme=tokyonight" />
+</a>
+<a href="https://github.com/AyrtonFabrizioAlvarez/Algoritmos-y-Estructuras-de-Datos-AyED-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Algoritmos-y-Estructuras-de-Datos-AyED-&theme=tokyonight" />
+</a>
+<br><br>
+<a href="https://github.com/AyrtonFabrizioAlvarez/Fundamentos-de-Organizacion-de-Datos">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Fundamentos-de-Organizacion-de-Datos&theme=tokyonight" /> 
+</a>
+<div/>
+
+
+<h3 align="center"><strong>1st year</strong></h3>
 <hr>
 <br>
 <div align="center">
@@ -22,22 +38,6 @@
 <br><br>
 <a href="https://github.com/AyrtonFabrizioAlvarez/Lenguaje-Ensamblador">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Lenguaje-Ensamblador&theme=tokyonight" />
-</a>
-<div/>
-
-<h3 align="center"><strong>2do año</strong></h3>
-<hr>
-<br>
-<div align="center">
-<a href="https://github.com/AyrtonFabrizioAlvarez/Seminario-Python">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Seminario-Python&theme=tokyonight" />
-</a>
-<a href="https://github.com/AyrtonFabrizioAlvarez/Algoritmos-y-Estructuras-de-Datos-AyED-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Algoritmos-y-Estructuras-de-Datos-AyED-&theme=tokyonight" />
-</a>
-<br><br>
-<a href="https://github.com/AyrtonFabrizioAlvarez/Fundamentos-de-Organizacion-de-Datos">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Fundamentos-de-Organizacion-de-Datos&theme=tokyonight" /> 
 </a>
 <div/>
 
