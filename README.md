@@ -47,7 +47,7 @@
 <hr>
 <br>
 <a href="https://github.com/AyrtonFabrizioAlvarez/Currency-Converter">
-  <img align="center" width=300px src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Currency-Converter&theme=tokyonight" />
+  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Currency-Converter&theme=tokyonight" />
 </a>
 <br><br><br><br>
 
