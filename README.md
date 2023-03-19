@@ -1,7 +1,6 @@
 ## Hola! :wave:
 
-**Mi nombre es Ayrton Fabrizio Alvarez, estudio en la Universidad Nacional de La Plata, actualmente cursando 
-la carrera de Analista Programador Universitario (APU), si sigo vivo tambien iré por la Licenciatura**
+**My name is Ayrton Fabrizio Alvarez, I study at the National University of La Plata, currently studying the Programmer Analyst (APU) career, if I'm still alive I'll also go for the CS degree**
 
 <h3 align="center"><strong>1er año</strong></h3>
 <hr>
