@@ -1,8 +1,16 @@
 **Hi :wave:, my name is Ayrton Fabrizio Alvarez, I study at the National University of La Plata, currently studying the Programmer Analyst (APU) career, if I'm still alive I'll also go for the CS degree**
 <br><br>
+#### Contact
 <a href="https://www.linkedin.com/in/ayrtonfabrizioalvarez/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<br><br>
+<h4 width="300"> Knowledge <h4/>
+<p>
+  <a href="https://github.com/AyrtonFabrizioAlvarez">
+    <img src="https://skillicons.dev/icons?i=java,python,js,git,html,css&perline=3&theme=dark" />
+  </a>
+</p>
 <br><br>
 
 <h3 align="center"><strong>2nd year</strong></h3>
