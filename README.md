@@ -8,10 +8,10 @@
 <h4 width="300"> Knowledge <h4/>
 <p>
   <a href="https://github.com/AyrtonFabrizioAlvarez">
-    <img src="https://skillicons.dev/icons?i=java,python,js,git,html,css&perline=3&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,python,js,git,html,css&theme=dark" />
   </a>
 </p>
-<br><br>
+<br>
 
 <h3 align="center"><strong>2nd year</strong></h3>
 <hr>
