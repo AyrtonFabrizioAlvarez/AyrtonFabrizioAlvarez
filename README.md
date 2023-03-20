@@ -10,14 +10,14 @@
 <br>
 <div align="center">
 <a href="https://github.com/AyrtonFabrizioAlvarez/Seminario-Python">
-  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Seminario-Python&theme=tokyonight" />
+  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Seminario-Python&theme=github_dark" />
 </a>
 <a href="https://github.com/AyrtonFabrizioAlvarez/Algoritmos-y-Estructuras-de-Datos-AyED-">
-  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Algoritmos-y-Estructuras-de-Datos-AyED-&theme=tokyonight" />
+  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Algoritmos-y-Estructuras-de-Datos-AyED-&theme=github_dark" />
 </a>
 <br><br>
 <a href="https://github.com/AyrtonFabrizioAlvarez/Fundamentos-de-Organizacion-de-Datos">
-  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Fundamentos-de-Organizacion-de-Datos&theme=tokyonight" /> 
+  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Fundamentos-de-Organizacion-de-Datos&theme=github_dark" /> 
 </a>
 <div/>
 
@@ -27,21 +27,21 @@
 <br>
 <div align="center">
 <a href="https://github.com/AyrtonFabrizioAlvarez/Programacion-Concurrente">
-  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Programacion-Concurrente&theme=tokyonight" />
+  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Programacion-Concurrente&theme=github_dark" />
 </a>
 <a href="https://github.com/AyrtonFabrizioAlvarez/Programacion-Orientada-Objetos">
-  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Programacion-Orientada-Objetos&theme=tokyonight" />
+  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Programacion-Orientada-Objetos&theme=github_dark" />
 </a>
 <br><br>
 <a href="https://github.com/AyrtonFabrizioAlvarez/Programacion-Imperativa-">
-  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Programacion-Imperativa-&theme=tokyonight" />
+  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Programacion-Imperativa-&theme=github_dark" />
 </a>
 <a href="https://github.com/AyrtonFabrizioAlvarez/Conceptos-De-Algoritmos-Datos-y-Programas">
-  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Conceptos-De-Algoritmos-Datos-y-Programas&theme=tokyonight" />
+  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Conceptos-De-Algoritmos-Datos-y-Programas&theme=github_dark" />
 </a>
 <br><br>
 <a href="https://github.com/AyrtonFabrizioAlvarez/Lenguaje-Ensamblador">
-  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Lenguaje-Ensamblador&theme=tokyonight" />
+  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Lenguaje-Ensamblador&theme=github_dark" />
 </a>
 <div/>
 
@@ -49,13 +49,13 @@
 <hr>
 <br>
 <a href="https://github.com/AyrtonFabrizioAlvarez/Currency-Converter">
-  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Currency-Converter&theme=tokyonight" />
+  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Currency-Converter&theme=github_dark" />
 </a>
 <br><br><br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyrtonFabrizioAlvarez&theme=tokyonight&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyrtonFabrizioAlvarez&theme=github_dark&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyrtonFabrizioAlvarez&show_icons=true&theme=tokyonight&hide=prs,contribs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyrtonFabrizioAlvarez&show_icons=true&theme=github_dark&hide=prs,contribs)
 
 
