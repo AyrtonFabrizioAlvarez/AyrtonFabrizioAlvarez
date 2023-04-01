@@ -59,6 +59,10 @@
 <a href="https://github.com/AyrtonFabrizioAlvarez/Currency-Converter">
   <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Currency-Converter&theme=github_dark" />
 </a>
+<a href="https://github.com/AyrtonFabrizioAlvarez/Currency-Converter">
+  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=
+chatGpt-App-de-Consola&theme=github_dark" />
+</a>
 <br><br><br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyrtonFabrizioAlvarez&theme=github_dark&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
