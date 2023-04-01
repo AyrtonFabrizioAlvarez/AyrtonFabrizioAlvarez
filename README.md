@@ -60,8 +60,7 @@
   <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Currency-Converter&theme=github_dark" />
 </a>
 <a href="https://github.com/AyrtonFabrizioAlvarez/Currency-Converter">
-  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=
-chatGpt-App-de-Consola&theme=github_dark" />
+  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=chatGpt-App-de-Consola&theme=github_dark" />
 </a>
 <br><br><br><br>
 
