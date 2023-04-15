@@ -68,5 +68,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyrtonFabrizioAlvarez&show_icons=true&theme=github_dark&hide=prs,contribs)
+    
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AyrtonFabrizioAlvarez&theme=github_dark" alt="AyrtonFabrizio" /></p>
 
 
