@@ -17,17 +17,39 @@
 <hr>
 <br>
 <div align="center">
-<a href="https://github.com/AyrtonFabrizioAlvarez">
-  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Seminario-Python&theme=github_dark" />
+<a href="https://github.com/AyrtonFabrizioAlvarez/Conceptos-y-Paradigmas-de-Lenguajes-de-Programacion">
+  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Conceptos-y-Paradigmas-de-Lenguajes-de-Programacion&theme=github_dark" />
 </a>
-<a href="https://github.com/AyrtonFabrizioAlvarez">
-  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=unlp_image&theme=github_dark" /> 
+
+    
+<br><br>
+<a href="https://github.com/AyrtonFabrizioAlvarez/OO2">
+  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=OO2&theme=github_dark" />
+</a>
+<a href="https://github.com/AyrtonFabrizioAlvarez/Ingenieria-de-Software-2">
+  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Ingenieria-de-Software-2&theme=github_dark" /> 
 </a>
 
 <h3 align="center"><strong>2nd year</strong></h3>
 <hr>
 <br>
 <div align="center">
+<a href="https://github.com/AyrtonFabrizioAlvarez/OO1">
+  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=OO1&theme=github_dark" />
+</a>
+<a href="https://github.com/AyrtonFabrizioAlvarez/Dise-o-de-Bases-de-Datos">
+  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Dise-o-de-Bases-de-Datos&theme=github_dark" /> 
+</a>
+    
+<br><br>
+<a href="https://github.com/AyrtonFabrizioAlvarez/Introduccion-a-los-Sistemas-Operativos">
+  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Introduccion-a-los-Sistemas-Operativos&theme=github_dark" />
+</a>
+<a href="https://github.com/AyrtonFabrizioAlvarez/Ingenieria-de-Software-1">
+  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Ingenieria-de-Software-1&theme=github_dark" /> 
+</a>
+    
+<br><br>
 <a href="https://github.com/AyrtonFabrizioAlvarez/Seminario-Python">
   <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Seminario-Python&theme=github_dark" />
 </a>
