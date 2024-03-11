@@ -13,6 +13,17 @@
 </p>
 <br>
 
+<h3 align="center"><strong>3rd year</strong></h3>
+<hr>
+<br>
+<div align="center">
+<a href="https://github.com/AyrtonFabrizioAlvarez">
+  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Seminario-Python&theme=github_dark" />
+</a>
+<a href="https://github.com/AyrtonFabrizioAlvarez">
+  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=unlp_image&theme=github_dark" /> 
+</a>
+
 <h3 align="center"><strong>2nd year</strong></h3>
 <hr>
 <br>
