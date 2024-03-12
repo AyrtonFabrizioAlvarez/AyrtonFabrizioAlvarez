@@ -12,7 +12,7 @@
   </a>
 </p>
 <br>
-
+<hr>
 <h3 align="center"><strong>3rd year</strong></h3>
 <hr>
 <br>
@@ -30,6 +30,8 @@
   <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Ingenieria-de-Software-2&theme=github_dark" /> 
 </a>
 
+
+<hr>
 <h3 align="center"><strong>2nd year</strong></h3>
 <hr>
 <br>
@@ -42,6 +44,7 @@
 </a>
     
 <br><br>
+
 <a href="https://github.com/AyrtonFabrizioAlvarez/Introduccion-a-los-Sistemas-Operativos">
   <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Introduccion-a-los-Sistemas-Operativos&theme=github_dark" />
 </a>
@@ -50,6 +53,7 @@
 </a>
     
 <br><br>
+
 <a href="https://github.com/AyrtonFabrizioAlvarez/Seminario-Python">
   <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Seminario-Python&theme=github_dark" />
 </a>
@@ -67,7 +71,7 @@
 </a>
 <div/>
 
-
+<hr>
 <h3 align="center"><strong>1st year</strong></h3>
 <hr>
 <br>
