@@ -20,6 +20,9 @@
 <a href="https://github.com/AyrtonFabrizioAlvarez/Conceptos-y-Paradigmas-de-Lenguajes-de-Programacion">
   <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Conceptos-y-Paradigmas-de-Lenguajes-de-Programacion&theme=github_dark" />
 </a>
+<a href="https://github.com/AyrtonFabrizioAlvarez/HopeTrade">
+  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=HopeTrade&theme=github_dark" />
+</a>
 
     
 <br><br>
