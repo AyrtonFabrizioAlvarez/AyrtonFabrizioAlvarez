@@ -9,10 +9,13 @@
 
 [![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://www.python.org/)
 [![Django](https://skillicons.dev/icons?i=django&theme=dark)](https://www.djangoproject.com/)
+<br><br>
+[![Typescript](https://skillicons.dev/icons?i=typescript&theme=dark)](https://www.typescriptlang.org/)
+<br><br>
 [![HTML](https://skillicons.dev/icons?i=html&theme=dark)](https://developer.mozilla.org/es/docs/Web/HTML)
 [![CSS](https://skillicons.dev/icons?i=css&theme=dark)](https://developer.mozilla.org/es/docs/Web/CSS)
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap&theme=dark)](https://getbootstrap.com/)
-[![Typescript](https://skillicons.dev/icons?i=typescript&theme=dark)](https://www.typescriptlang.org/)
+<br><br>
 
 <br>
 <hr>
