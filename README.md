@@ -6,11 +6,14 @@
 </a>
 <br><br>
 <h4 width="300"> Knowledge <h4/>
-<p>
-  <a href="https://github.com/AyrtonFabrizioAlvarez">
-    <img src="https://skillicons.dev/icons?i=java,python,js,git,html,css&theme=dark" />
-  </a>
-</p>
+
+[![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://www.python.org/)
+[![Django](https://skillicons.dev/icons?i=django&theme=dark)](https://www.djangoproject.com/)
+[![HTML](https://skillicons.dev/icons?i=html&theme=dark)](https://developer.mozilla.org/es/docs/Web/HTML)
+[![CSS](https://skillicons.dev/icons?i=css&theme=dark)](https://developer.mozilla.org/es/docs/Web/CSS)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap&theme=dark)](https://getbootstrap.com/)
+[![Typescript](https://skillicons.dev/icons?i=typescript&theme=dark)](https://www.typescriptlang.org/)
+
 <br>
 <hr>
 <h3 align="center"><strong>3rd year</strong></h3>
