@@ -109,6 +109,8 @@
 </a>
 <div/>
 
+<br>
+<hr>
 <h3 align="center"><strong>Otros</strong></h3>
 <hr>
 <br>
@@ -119,6 +121,13 @@
   <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=chatGpt-App-de-Consola&theme=github_dark" />
 </a>
 <br><br><br><br>
+
+
+<br>
+<hr>
+<h3 align="center"><strong>GitHub Stats</strong></h3>
+<hr>
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyrtonFabrizioAlvarez&hide=jupyter%20notebook&theme=github_dark&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
