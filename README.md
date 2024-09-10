@@ -7,9 +7,6 @@
     </a>
 
 </div>
-<br>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/723729367737434233)](https://discord.com/users/723729367737434233)
 
 
 <br><br>
@@ -18,8 +15,10 @@
     
 [![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://www.python.org/)
 [![Django](https://skillicons.dev/icons?i=django&theme=dark)](https://www.djangoproject.com/)
+[![Flask](https://skillicons.dev/icons?i=flask&theme=dark)](https://flask.palletsprojects.com/en/3.0.x/)
 <br><br>
 [![Typescript](https://skillicons.dev/icons?i=typescript&theme=dark)](https://www.typescriptlang.org/)
+[![Vue](https://skillicons.dev/icons?i=vue&theme=dark)]([https://www.typescriptlang.org/](https://vuejs.org/))
 <br><br>
 
 <br>
