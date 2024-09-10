@@ -28,6 +28,12 @@
 <hr>
 <br>
 <div align="center">
+<a href="https://github.com/AyrtonFabrizioAlvarez/programacion--concurrente">
+  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=programacion--concurrente&theme=github_dark" />
+</a>
+
+
+<br><br>
 <a href="https://github.com/AyrtonFabrizioAlvarez/Conceptos-y-Paradigmas-de-Lenguajes-de-Programacion">
   <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Conceptos-y-Paradigmas-de-Lenguajes-de-Programacion&theme=github_dark" />
 </a>
@@ -43,6 +49,7 @@
 <a href="https://github.com/AyrtonFabrizioAlvarez/Ingenieria-de-Software-2">
   <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Ingenieria-de-Software-2&theme=github_dark" /> 
 </a>
+</div>
 
 
 <hr>
