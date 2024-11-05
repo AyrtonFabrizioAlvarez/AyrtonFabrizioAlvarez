@@ -1,6 +1,6 @@
 **Hi :wave:, my name is Ayrton Fabrizio Alvarez, I study at the National University of La Plata, currently studying the Programmer Analyst (APU) career, if I'm still alive I'll also go for the CS degree**
 <br><br>
-#### Contact
+### Contact:
 <div>
     <a href="https://www.linkedin.com/in/ayrtonfabrizioalvarez/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -11,22 +11,21 @@
 
 <br><br>
 
-<h4 width="300"> Knowledge <h4/>
+### Knowledge:
     
 [![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://www.python.org/)
 [![Django](https://skillicons.dev/icons?i=django&theme=dark)](https://www.djangoproject.com/)
 [![Flask](https://skillicons.dev/icons?i=flask&theme=dark)](https://flask.palletsprojects.com/en/3.0.x/)
-<br><br>
 [![Vue](https://skillicons.dev/icons?i=vue&theme=dark)]([https://www.typescriptlang.org/](https://vuejs.org/))
 <br><br>
 
 <div align="center">
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyrtonFabrizioAlvarez&hide=jupyter%20notebook&theme=github_dark&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyrtonFabrizioAlvarez&hide=jupyter%20notebook&theme=github_dark&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyrtonFabrizioAlvarez&show_icons=true&theme=github_dark&hide=prs,contribs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyrtonFabrizioAlvarez&show_icons=true&theme=github_dark)
 
 </div>
 
@@ -138,15 +137,7 @@
 </a>
 <br><br><br><br>
 
-
-<br>
-<hr>
-<h3 align="center"><strong>GitHub Stats</strong></h3>
-<hr>
-<br>
-
-
     
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AyrtonFabrizioAlvarez&theme=github_dark" alt="AyrtonFabrizio" /></p>
+
 
 
