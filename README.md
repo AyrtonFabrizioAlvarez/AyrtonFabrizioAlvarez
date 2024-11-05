@@ -17,9 +17,19 @@
 [![Django](https://skillicons.dev/icons?i=django&theme=dark)](https://www.djangoproject.com/)
 [![Flask](https://skillicons.dev/icons?i=flask&theme=dark)](https://flask.palletsprojects.com/en/3.0.x/)
 <br><br>
-[![Typescript](https://skillicons.dev/icons?i=typescript&theme=dark)](https://www.typescriptlang.org/)
 [![Vue](https://skillicons.dev/icons?i=vue&theme=dark)]([https://www.typescriptlang.org/](https://vuejs.org/))
 <br><br>
+
+<div align="center">
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyrtonFabrizioAlvarez&hide=jupyter%20notebook&theme=github_dark&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyrtonFabrizioAlvarez&show_icons=true&theme=github_dark&hide=prs,contribs)
+
+</div>
+
 
 <br>
 <hr>
@@ -135,10 +145,7 @@
 <hr>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyrtonFabrizioAlvarez&hide=jupyter%20notebook&theme=github_dark&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyrtonFabrizioAlvarez&show_icons=true&theme=github_dark&hide=prs,contribs)
     
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AyrtonFabrizioAlvarez&theme=github_dark" alt="AyrtonFabrizio" /></p>
 
