@@ -1,23 +1,16 @@
 **Hi :wave:, my name is Ayrton Fabrizio Alvarez, I study at the National University of La Plata, currently studying the Programmer Analyst (APU) career, if I'm still alive I'll also go for the CS degree**
 <br><br>
 ### Contact:
-<div>
-    <a href="https://www.linkedin.com/in/ayrtonfabrizioalvarez/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-
-</div>
-
-
-<br><br>
+<a href="https://www.linkedin.com/in/ayrtonfabrizioalvarez/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 ### Knowledge:
-    
 [![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://www.python.org/)
 [![Django](https://skillicons.dev/icons?i=django&theme=dark)](https://www.djangoproject.com/)
 [![Flask](https://skillicons.dev/icons?i=flask&theme=dark)](https://flask.palletsprojects.com/en/3.0.x/)
 [![Vue](https://skillicons.dev/icons?i=vue&theme=dark)]([https://www.typescriptlang.org/](https://vuejs.org/))
-<br><br>
+<br>
 
 <div align="center">
     
@@ -30,17 +23,15 @@
 </div>
 
 
-<br>
-<hr>
-<h3 align="center"><strong>3rd year</strong></h3>
-<hr>
+
+<br><br>
+<h1 align="center">3rd year</h1>
 <br>
 <div align="center">
 <a href="https://github.com/AyrtonFabrizioAlvarez/programacion--concurrente">
   <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=programacion--concurrente&theme=github_dark" />
 </a>
-
-
+    
 <br><br>
 <a href="https://github.com/AyrtonFabrizioAlvarez/Conceptos-y-Paradigmas-de-Lenguajes-de-Programacion">
   <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Conceptos-y-Paradigmas-de-Lenguajes-de-Programacion&theme=github_dark" />
@@ -49,7 +40,6 @@
   <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=HopeTrade&theme=github_dark" />
 </a>
 
-    
 <br><br>
 <a href="https://github.com/AyrtonFabrizioAlvarez/OO2">
   <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=OO2&theme=github_dark" />
@@ -60,10 +50,8 @@
 </div>
 
 
-<hr>
-<h3 align="center"><strong>2nd year</strong></h3>
-<hr>
-<br>
+<br><br>
+<h1 align="center">2nd year</h1>
 <div align="center">
 <a href="https://github.com/AyrtonFabrizioAlvarez/OO1">
   <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=OO1&theme=github_dark" />
@@ -99,11 +87,9 @@
   <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Fundamentos-de-Organizacion-de-Datos&theme=github_dark" /> 
 </a>
 <div/>
-
-<hr>
-<h3 align="center"><strong>1st year</strong></h3>
-<hr>
-<br>
+    
+<br><br>
+<h1 align="center">1st year</h1>
 <div align="center">
 <a href="https://github.com/AyrtonFabrizioAlvarez/Programacion-Concurrente">
   <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Programacion-Concurrente&theme=github_dark" />
@@ -124,11 +110,8 @@
 </a>
 <div/>
 
-<br>
-<hr>
-<h3 align="center"><strong>Otros</strong></h3>
-<hr>
-<br>
+<br><br>
+<h1 align="center">Others</h1>
 <a href="https://github.com/AyrtonFabrizioAlvarez/Currency-Converter">
   <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Currency-Converter&theme=github_dark" />
 </a>
