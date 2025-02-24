@@ -112,6 +112,9 @@
 
 <br><br>
 <h1 align="center">Others</h1>
+<a href="https://github.com/AyrtonFabrizioAlvarez/S.P.A.E.I.I-UNLP">
+  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=S.P.A.E.I.I-UNLP&theme=github_dark" />
+</a>
 <a href="https://github.com/AyrtonFabrizioAlvarez/Currency-Converter">
   <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Currency-Converter&theme=github_dark" />
 </a>
