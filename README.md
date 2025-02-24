@@ -22,7 +22,23 @@
 
 </div>
 
+<br><br>
+<h1 align="center">4th year</h1>
+<br>
+<div align="center">
+<a href="https://github.com/AyrtonFabrizioAlvarez/sistemas-operativos">
+  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=sistemas-operativos&theme=github_dark" />
+</a>
+    
+<br><br>
+<a href="https://github.com/AyrtonFabrizioAlvarez/ingenieria-de-software-3">
+  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=ingenieria-de-software-3&theme=github_dark" />
+</a>
+<a href="https://github.com/AyrtonFabrizioAlvarez/teoria-fundamentos-de-computacion">
+  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=teoria-fundamentos-de-computacion&theme=github_dark" />
+</a>
 
+</div>
 
 <br><br>
 <h1 align="center">3rd year</h1>
