@@ -48,7 +48,7 @@
   <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=S.P.A.E.I.I-UNLP&theme=github_dark" />
 </a>
 <a href="https://github.com/AyrtonFabrizioAlvarez/programacion-concurrente">
-  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=programacion--concurrente&theme=github_dark" />
+  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=programacion-concurrente&theme=github_dark" />
 </a>
 <br><br>
 <a href="https://github.com/AyrtonFabrizioAlvarez/Conceptos-y-Paradigmas-de-Lenguajes-de-Programacion">
@@ -110,7 +110,7 @@
 <h1 align="center">1st year</h1>
 <div align="center">
 <a href="https://github.com/AyrtonFabrizioAlvarez/Programacion-Concurrente-Introduccion">
-  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Programacion-Concurrente&theme=github_dark" />
+  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Programacion-Concurrente-Introduccion&theme=github_dark" />
 </a>
 <a href="https://github.com/AyrtonFabrizioAlvarez/Programacion-Orientada-Objetos">
   <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Programacion-Orientada-Objetos&theme=github_dark" />
