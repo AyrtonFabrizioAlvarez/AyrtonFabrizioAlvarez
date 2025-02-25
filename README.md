@@ -44,10 +44,12 @@
 <h1 align="center">3rd year</h1>
 <br>
 <div align="center">
-<a href="https://github.com/AyrtonFabrizioAlvarez/programacion--concurrente">
+<a href="https://github.com/AyrtonFabrizioAlvarez/S.P.A.E.I.I-UNLP">
+  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=S.P.A.E.I.I-UNLP&theme=github_dark" />
+</a>
+<a href="https://github.com/AyrtonFabrizioAlvarez/programacion-concurrente">
   <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=programacion--concurrente&theme=github_dark" />
 </a>
-    
 <br><br>
 <a href="https://github.com/AyrtonFabrizioAlvarez/Conceptos-y-Paradigmas-de-Lenguajes-de-Programacion">
   <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Conceptos-y-Paradigmas-de-Lenguajes-de-Programacion&theme=github_dark" />
@@ -107,7 +109,7 @@
 <br><br>
 <h1 align="center">1st year</h1>
 <div align="center">
-<a href="https://github.com/AyrtonFabrizioAlvarez/Programacion-Concurrente">
+<a href="https://github.com/AyrtonFabrizioAlvarez/Programacion-Concurrente-Introduccion">
   <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Programacion-Concurrente&theme=github_dark" />
 </a>
 <a href="https://github.com/AyrtonFabrizioAlvarez/Programacion-Orientada-Objetos">
@@ -128,9 +130,6 @@
 
 <br><br>
 <h1 align="center">Others</h1>
-<a href="https://github.com/AyrtonFabrizioAlvarez/S.P.A.E.I.I-UNLP">
-  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=S.P.A.E.I.I-UNLP&theme=github_dark" />
-</a>
 <a href="https://github.com/AyrtonFabrizioAlvarez/Currency-Converter">
   <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonFabrizioAlvarez&repo=Currency-Converter&theme=github_dark" />
 </a>
