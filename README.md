@@ -1,4 +1,4 @@
-**Hi :wave:, my name is Ayrton Fabrizio Alvarez, I study at the National University of La Plata, currently studying the Programmer Analyst (APU) career, if I'm still alive I'll also go for the CS degree**
+**Hi, :wave:, my name is Ayrton Fabrizio Alvarez, I have a degree in Programming Analysis (APU), and I'm currently studying for a Bachelor's degree in Computer Science at the National University of La Plata.**
 <br><br>
 ### Contact:
 <a href="https://www.linkedin.com/in/ayrtonfabrizioalvarez/">
