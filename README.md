@@ -9,7 +9,7 @@
 [![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://www.python.org/)
 [![Django](https://skillicons.dev/icons?i=django&theme=dark)](https://www.djangoproject.com/)
 [![Flask](https://skillicons.dev/icons?i=flask&theme=dark)](https://flask.palletsprojects.com/en/3.0.x/)
-[![Vue](https://skillicons.dev/icons?i=vue&theme=dark)]([https://www.typescriptlang.org/](https://vuejs.org/))
+[![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://www.docker.com/)
 <br>
 
 <div align="center">
