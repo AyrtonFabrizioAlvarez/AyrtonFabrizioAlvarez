@@ -12,9 +12,6 @@
 [![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://www.docker.com/)
 <br>
 
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyrtonFabrizioAlvarez&hide=jupyter%20notebook&theme=github_dark&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
