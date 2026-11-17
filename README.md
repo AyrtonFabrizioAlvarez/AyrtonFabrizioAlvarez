@@ -2,7 +2,7 @@
 
 <br>
 
-**Let's design and build something awesome**
+**Let's design and build something awesome together**
 
 ### Contact:
 <a href="https://www.linkedin.com/in/ayrtonfabrizioalvarez/">
